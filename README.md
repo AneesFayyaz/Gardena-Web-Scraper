@@ -24,7 +24,7 @@ Before running the script, make sure you have the following installed:
 
 1. Clone this repository:
     ```bash
-    [git clone https://github.com/your-username/gardena-product-scraper.git](https://github.com/AneesFayyaz/Gardena-Web-Scraper/tree/main)
+    git clone https://github.com/AneesFayyaz/Gardena-Web-Scraper/tree/main
     ```
 
 2. Navigate to the project directory:
